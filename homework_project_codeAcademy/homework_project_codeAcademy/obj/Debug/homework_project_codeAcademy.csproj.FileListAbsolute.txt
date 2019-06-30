@@ -1,0 +1,7 @@
+C:\Users\Cavid\source\repos\homework_project_codeAcademy\homework_project_codeAcademy\bin\Debug\homework_project_codeAcademy.exe.config
+C:\Users\Cavid\source\repos\homework_project_codeAcademy\homework_project_codeAcademy\bin\Debug\homework_project_codeAcademy.exe
+C:\Users\Cavid\source\repos\homework_project_codeAcademy\homework_project_codeAcademy\bin\Debug\homework_project_codeAcademy.pdb
+C:\Users\Cavid\source\repos\homework_project_codeAcademy\homework_project_codeAcademy\obj\Debug\homework_project_codeAcademy.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\homework_project_codeAcademy\homework_project_codeAcademy\obj\Debug\homework_project_codeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\homework_project_codeAcademy\homework_project_codeAcademy\obj\Debug\homework_project_codeAcademy.exe
+C:\Users\Cavid\source\repos\homework_project_codeAcademy\homework_project_codeAcademy\obj\Debug\homework_project_codeAcademy.pdb
